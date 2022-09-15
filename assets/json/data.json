@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "assets/images/netflix.png",
+    "name" : "Netflix",
+    "website": "https://www.netflix.com/in/"
+  },
+  {
+    "logo": "assets/images/amazon2.jpg",
+    "name": "Amazon prime",
+    "website": "https://www.primevideo.com/"
+  },
+
+  {
+    "logo": "assets/images/hotstar.jpg",
+    "name": "Disney+ Hotstar",
+    "website": "https://www.hotstar.com/in"
+  },{
+    "logo": "assets/images/sony.jpg",
+    "name": "Sony liv",
+    "website": "https://www.sonyliv.com/"
+  }
+]
